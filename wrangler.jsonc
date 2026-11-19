@@ -1,5 +1,6 @@
 {
   "name": "stealed",
   "main": "worker.js",
-  "compatibility_date": "2026-11-01"
+  "compatibility_date": "2026-11-01",
+  "kv_namespaces": [{ "binding": "PHOTOS", "id": "2e22c0b5484c4523a7372ac01d2f0995" }]
 }
